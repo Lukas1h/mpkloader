@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bun-promptx": "^0.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "bun-types": "^1.2.19"
+  }
+}
